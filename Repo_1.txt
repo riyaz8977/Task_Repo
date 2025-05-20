@@ -1,0 +1,21 @@
+How to Create public and private Repositories in github and how to collabe with others
+Step 1 :
+First go to githiub.com and create an accout in it if you have one login in it.
+Step 2 :
+After you open your account click on your profile, there you can see the option your repositories click on it.
+Step 3 :
+After clicking on it you can see an option called "NEW" at right side top click on it.
+Step 4 : 
+Now give your repositorie a name and enter description, and select public or private. And also select the option called "ADD to README file".
+Step 5 : 
+After entering the details click on create repositorie, and your repositorie is created.
+Step 6 : 
+If your repositorie is private and you want to collaborate with your friends or others.
+Step 7 :
+Open the repositorie you want to collabe with and click on settings, there you can see the option "ADD Collaborations" click on it.
+Step 8 : 
+After that it will ask you the username/mail.id of the person you want to collabe with.
+Step 9 :
+Enter the username/mail.id and click invite. It will send an invitation to their mail.
+Step 10 : 
+When that person accepts your invitation he'll be collabed with you in that repositorie.
